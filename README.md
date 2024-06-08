@@ -63,17 +63,21 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Learn Java Till Scalability] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Make new developer learn Data Structure , algorithm, discreet mathematics, Calculus, and Linear algebra with SOLID - OOP principle and highly scalable app with industry standardr design patterns - to land a job at a product based company or switch from Service Based( like TCS, Wipro, Infosys etc ) to product based like (Google, Amazon, Meta, Netflix etc). and Get a package more thgan 30 LPA at least. There is a need of 20 million developers in PBCs with geral software engineering( OD development, Web development, Mobile app development etc), or even in Augmentd reality till Virtual reality. Ockulus and Starlink backed by TESLA are working within these future domains.
 
-**[your_project__name]** is a...
+**[Learn Java and SprngBoot the east way]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Java (Version 8+)
+> SpringBoot
+> Hibernate ORM
+> Redic cache
+> Automated Batch files
 
 <details>
   <summary>Client</summary>
@@ -85,14 +89,20 @@ For more information on the importance of a professional README for your reposit
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://jdk.java.net//">Java</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="hhttps://www.mysql.com/">MySQL</a></li>
+  </ul>
+</details>
+
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.mongodb.com//">MongoDB</a></li>
   </ul>
 </details>
 
@@ -100,7 +110,9 @@ For more information on the importance of a professional README for your reposit
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Highly scalable
+> Can handle 300000 users per second
+> Robust
 
 - **[key_feature_1]**
 - **[key_feature_2]**
@@ -112,9 +124,8 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> Coming soon
 
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
